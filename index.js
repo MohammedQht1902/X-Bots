@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening To ASWAYZ Community","Streaming on kick","kick.com/mtnews"];
+const statusMessages = ["Made by X Server","Best Bot Ever","Check Bio"];
 
 
 let currentIndex = 0;
